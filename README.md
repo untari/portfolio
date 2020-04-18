@@ -1,2 +1,2 @@
 # CSS-portfolio
-This project contains HTML and CSS. a method hoe to design portfolio with CSS
+This project contains HTML and CSS. a method hoW to design portfolio with CSS
