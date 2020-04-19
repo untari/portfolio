@@ -1,2 +1,2 @@
 # CSS-portfolio
-CSS essential learning training, how to  styles portfolio.
+CSS essential learning training to styles portfolio.
